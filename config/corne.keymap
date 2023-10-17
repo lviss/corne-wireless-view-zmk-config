@@ -39,7 +39,7 @@
             bindings = <
 &trans  &kp ESCAPE    &kp K_BACK      &kp UP          &kp K_FORWARD  &kp PAGE_UP      &kp N6        &kp N7                &kp N8        &kp N9        &kp BACKSPACE  &trans
 &trans  &none         &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT      &kp PAGE_DOWN    &kp LEFT      &kp NUMBER_4          &kp NUMBER_5  &kp NUMBER_6  &kp DELETE     &trans
-&trans  &bt BT_SEL 0  &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3   &bt BT_SEL 4     &kp NUMBER_0  &kp NUMBER_1          &kp NUMBER_2  &kp NUMBER_3  &trans         &trans
+&trans  &bt BT_SEL 0  &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3   &bt BT_SEL 4     &kp NUMBER_0  &kp NUMBER_1          &kp NUMBER_2  &kp NUMBER_3  &kp GRAVE      &trans
                                       &kp LGUI        &kp SPACE      &trans           &trans        &mt LEFT_SHIFT ENTER  &kp RALT
             >;
         };
